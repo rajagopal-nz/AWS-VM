@@ -1,0 +1,7 @@
+init terraform project
+add vpc and subnets
+add alb and security groups
+add autoscaling group
+containerise nginx
+add cloud-init docker bootstrap
+add pipeline and docs
