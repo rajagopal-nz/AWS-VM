@@ -28,5 +28,14 @@ minimal configuration and no additional services.
 
 <img width="5047" height="6680" alt="Mermaid Chart - Create complex, visual diagrams with text -2025-12-18-123119" src="https://github.com/user-attachments/assets/6f5eed9c-d822-4fc2-8643-222d38a237cc" />
 
+## Assumptions and estimated monthly cost
+
+| Service                   | Est. Cost         |
+| ------------------------- | ----------------- |
+| 2× t3.micro EC2           | ~$14 AUD          |
+| Application Load Balancer | ~$5 AUD           |
+| Data transfer             | ~$0–1 AUD         |
+| **Total**                 | **~$19–20 AUD**   |
+
 
 
